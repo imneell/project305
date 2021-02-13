@@ -19,8 +19,7 @@ public class Home extends javax.swing.JFrame {
     public Home() {
         initComponents();
         setLocationRelativeTo(null);
-      //  ImageIcon img = new ImageIcon (ClassLoader.getSystemResource("CPIT305project/icons/staff-3.png"));
-       // jLabel6.setIcon(img);
+    
         
     }
 
